@@ -119,6 +119,8 @@ namespace Part_6
                 middleNmbr = middleNmbr + deci;
                 Console.WriteLine($"{middleNmbr}");
                 i = i + 1;
+        
+            
             } while (i != 25);
         }
 
